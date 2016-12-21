@@ -1,4 +1,5 @@
 <?php
+ыуаыва
 define('BASE_DIR', getcwd());
 require '/framework/core/bootstap.php';
 
